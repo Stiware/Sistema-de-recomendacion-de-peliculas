@@ -1,0 +1,71 @@
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Sistema de Recomendacion.exe
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Sistema de Recomendacion.deps.json
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Sistema de Recomendacion.runtimeconfig.json
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Sistema de Recomendacion.runtimeconfig.dev.json
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Sistema de Recomendacion.dll
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Sistema de Recomendacion.pdb
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\obj\Debug\netcoreapp3.1\Sistema de Recomendacion.csprojAssemblyReference.cache
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\obj\Debug\netcoreapp3.1\Sistema de Recomendacion.csproj.GenerateResource.cache
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\obj\Debug\netcoreapp3.1\Sistema de Recomendacion.AssemblyInfoInputs.cache
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\obj\Debug\netcoreapp3.1\Sistema de Recomendacion.AssemblyInfo.cs
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\obj\Debug\netcoreapp3.1\Sistema de Recomendacion.csproj.CoreCompileInputs.cache
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\obj\Debug\netcoreapp3.1\Sistema de Recomendacion.dll
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\obj\Debug\netcoreapp3.1\Sistema de Recomendacion.pdb
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\obj\Debug\netcoreapp3.1\Sistema de Recomendacion.genruntimeconfig.cache
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Microsoft.ML.dll
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Microsoft.ML.Recommender.dll
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMatrixFactorizationNative.so
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMatrixFactorizationNative.so
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMatrixFactorizationNative.so
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libMatrixFactorizationNative.dylib
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libMatrixFactorizationNative.dylib
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\MatrixFactorizationNative.dll
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\MatrixFactorizationNative.dll
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\obj\Debug\netcoreapp3.1\Sistema de Recomendacion.csproj.CopyComplete
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\obj\Debug\netcoreapp3.1\Sistema_de_Recomendacion.Properties.Resources.resources
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\obj\Debug\netcoreapp3.1\Sistema_de_Recomendacion.frmSelect.resources
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\obj\Debug\netcoreapp3.1\Sistema_de_Recomendacion.frmWelcome.resources
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Data\movies.csv
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\135937.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\default.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\0.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\1.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\10.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\1129.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\1206.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\1208.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\1214.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\1301.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\1682.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\1982.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\1997.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\2.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\2858.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\2867.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\3.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\4.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\5.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\541.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\6.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\7.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\8.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\9.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\912.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\924.jpg
