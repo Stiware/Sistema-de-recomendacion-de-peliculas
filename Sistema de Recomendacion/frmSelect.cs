@@ -16,9 +16,13 @@ namespace Sistema_de_Recomendacion
         private List<Models.Movie> ListMovies = new List<Models.Movie>();
         private int userId = 0;
         public int id { get => userId;}
+        private string userName= string.Empty;
+        public string name { get => userName ;}
 
-        public frmSelect()
+        public frmSelect( int id, string name)
         {
+            this.userId = id;
+            this.userName = name;
             InitializeComponent();
             saveMovies();
             lblResultado.Visible = false;
@@ -29,7 +33,7 @@ namespace Sistema_de_Recomendacion
         { 
             fillCombo();
             comboBox1.SelectedIndex = 0;
-            lblId.Text = "ID: " + userId;
+            lblUser.Text = "Nombre: " + userName;
         }
 
         //Guarda las peliculas del archivo a una lista
@@ -56,10 +60,12 @@ namespace Sistema_de_Recomendacion
         //carga las peliculas de la lista al combobox
         private void fillCombo()
         {
+            comboBox1.Items.Clear();
             foreach(Models.Movie Movies in ListMovies)
             {
                 comboBox1.Items.Add(Movies.Movies);
             }
+            comboBox1.SelectedIndex = 0;
                 
         }
         
@@ -70,9 +76,9 @@ namespace Sistema_de_Recomendacion
             try
             {
                 Predictions predictions = new Predictions();
-                predictions.Process(userId.ToString(),findCode());
+                predictions.Process(userId.ToString(),findCode(),userName);
 
-                if (predictions.LikeOrNot)
+                if (predictions.LikeOrNot.ToLower() == "true")
                 {
                     MessageBox.Show("Esta pelicula te encantará","Genial",MessageBoxButtons.OK,MessageBoxIcon.Information);
                 }
@@ -97,7 +103,8 @@ namespace Sistema_de_Recomendacion
             {
                 if(txtBusqueda.Text.Trim().ToString() == "")
                 {
-                    MessageBox.Show("Debe escrbir algo para buscar", "Puto",MessageBoxButtons.OK,MessageBoxIcon.Warning);
+                    MessageBox.Show("Debe escrbir algo para buscar", "Opps!",MessageBoxButtons.OK,MessageBoxIcon.Warning);
+                    fillCombo();
                     return;
                 }
                 var search = ListMovies.Where(Movies => Movies.Movies.Contains(txtBusqueda.Text.ToUpper()));
@@ -116,6 +123,7 @@ namespace Sistema_de_Recomendacion
                 else
                 {
                     MessageBox.Show("Busqueda completada, deplega la lista de peliculas para encontrar su pelicula", "Completado", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    comboBox1.SelectedIndex = 0;
                 }
         
             }

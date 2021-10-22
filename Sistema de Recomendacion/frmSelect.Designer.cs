@@ -36,7 +36,7 @@ namespace Sistema_de_Recomendacion
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnSearch = new System.Windows.Forms.Button();
             this.txtBusqueda = new System.Windows.Forms.TextBox();
-            this.lblId = new System.Windows.Forms.Label();
+            this.lblUser = new System.Windows.Forms.Label();
             this.btnSalir = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -104,16 +104,16 @@ namespace Sistema_de_Recomendacion
             this.txtBusqueda.Text = "Busca una pelicula ;)";
             this.txtBusqueda.Enter += new System.EventHandler(this.txtBusqueda_Enter);
             // 
-            // lblId
+            // lblUser
             // 
-            this.lblId.AutoSize = true;
-            this.lblId.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.lblId.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.lblId.Location = new System.Drawing.Point(20, 13);
-            this.lblId.Name = "lblId";
-            this.lblId.Size = new System.Drawing.Size(119, 21);
-            this.lblId.TabIndex = 7;
-            this.lblId.Text = "Texto de prueba";
+            this.lblUser.AutoSize = true;
+            this.lblUser.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblUser.ForeColor = System.Drawing.SystemColors.HighlightText;
+            this.lblUser.Location = new System.Drawing.Point(20, 13);
+            this.lblUser.Name = "lblUser";
+            this.lblUser.Size = new System.Drawing.Size(119, 21);
+            this.lblUser.TabIndex = 7;
+            this.lblUser.Text = "Texto de prueba";
             // 
             // btnSalir
             // 
@@ -121,7 +121,7 @@ namespace Sistema_de_Recomendacion
             this.btnSalir.Name = "btnSalir";
             this.btnSalir.Size = new System.Drawing.Size(75, 23);
             this.btnSalir.TabIndex = 8;
-            this.btnSalir.Text = "Salir";
+            this.btnSalir.Text = "Atras";
             this.btnSalir.UseVisualStyleBackColor = true;
             this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
@@ -133,7 +133,7 @@ namespace Sistema_de_Recomendacion
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.ControlBox = false;
             this.Controls.Add(this.btnSalir);
-            this.Controls.Add(this.lblId);
+            this.Controls.Add(this.lblUser);
             this.Controls.Add(this.txtBusqueda);
             this.Controls.Add(this.btnSearch);
             this.Controls.Add(this.pictureBox1);
@@ -142,6 +142,7 @@ namespace Sistema_de_Recomendacion
             this.Controls.Add(this.btnCalculate);
             this.Name = "frmSelect";
             this.ShowIcon = false;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Inicio";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
@@ -157,7 +158,7 @@ namespace Sistema_de_Recomendacion
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Button btnSearch;
         private System.Windows.Forms.TextBox txtBusqueda;
-        private System.Windows.Forms.Label lblId;
+        private System.Windows.Forms.Label lblUser;
         private System.Windows.Forms.Button btnSalir;
     }
 }

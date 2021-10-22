@@ -12,8 +12,8 @@ namespace Sistema_de_Recomendacion
     {
         private  string strMovRecomended;
         public string MovRecomended { get => strMovRecomended; }
-        private  bool blnLikeOrNot;
-        public bool LikeOrNot{ get => blnLikeOrNot; }
+        private  string strLikeOrNot;
+        public string LikeOrNot{ get => strLikeOrNot; }
 
         private static string BaseModelRelativePath = @"../../../Model";
         private static string ModelRelativePath = $"{BaseModelRelativePath}";
@@ -27,7 +27,7 @@ namespace Sistema_de_Recomendacion
         private static string ModelPath = GetAbsolutePath(ModelRelativePath);
 
 
-        public void Process(string idUser, string idMovie)
+        public void Process(string idUser, string idMovie, string UserName)
         {
             //Call the following piece of code for splitting the ratings.csv into ratings_train.csv and ratings.test.csv.
             // Program.DataPrep();
@@ -65,9 +65,8 @@ namespace Sistema_de_Recomendacion
             MovieRating testData = new MovieRating() { userId = idUser, movieId = idMovie };
 
             var movieRatingPrediction = predictionEngine.Predict(testData);
-            strMovRecomended = $"El usuario con id:{testData.userId} tiene un probabilidad de:{Sigmoid(movieRatingPrediction.Score)}% de gustarele esta pelicula";
-            blnLikeOrNot = Convert.ToBoolean(testData.Label);
-
+            strMovRecomended = $"El usuario {UserName} tiene un probabilidad de: {Sigmoid(movieRatingPrediction.Score)}% de gustarele esta pelicula";
+            strLikeOrNot = movieRatingPrediction.PredictedLabel.ToString();
             //STEP 8:  Save model to 
             Console.WriteLine(); mlContext.Model.Save(model, trainingDataView.Schema, ModelPath);
 

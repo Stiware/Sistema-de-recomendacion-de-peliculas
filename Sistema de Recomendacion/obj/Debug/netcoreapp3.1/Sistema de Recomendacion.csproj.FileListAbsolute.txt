@@ -69,3 +69,6 @@ C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema 
 C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\9.jpg
 C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\912.jpg
 C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\Movies\924.jpg
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\imgProfiles\profile1.png
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\imgProfiles\profile2.png
+C:\Users\Casa\source\repos\testRecomendaciones\Sistema de Recomendacion\Sistema de Recomendacion\bin\Debug\netcoreapp3.1\imgProfiles\profile3.png
